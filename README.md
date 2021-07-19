@@ -1,2 +1,2 @@
-# Tower defense - Unity
-Own code for a Tower defense done in Unity. Also you can download the game in the .EXE folder.
+# Tower Defense done using Unity
+All the code used in "troll fangs and goblins" TD.
